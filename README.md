@@ -2,7 +2,7 @@ Hi there 👋, I'm Antonio Ferreira
 
 …but you can call me Tony 😄
 
-🔐 I'm a Cloud Authentication Specialist with a focus on Microsoft Azure, working primarily with OAuth 2.0 and OpenID Connect.
+🔐 I'm a Cloud Authentication Specialist with a focus on Microsoft Azure, working primarily with SAML, OAuth 2.0 and OpenID Connect.
 
 🧠 I'm 100% self-taught — I learn through books, the web, and official Microsoft documentation. This GitHub is where I share personal projects and lessons learned.
 
